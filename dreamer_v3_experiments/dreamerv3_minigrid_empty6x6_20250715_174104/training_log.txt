@@ -1,0 +1,22 @@
+
+============================================================
+NEW BEST MODEL - Iteration 0
+Timestamp: 2025-07-15 17:41:25
+============================================================
+Performance:
+  Success Rate: 0.0%
+  Avg Reward: 0.000
+
+Key Metrics:
+  world_model_loss: 1.041569
+  recon_loss: 0.041569
+  kl_loss: 1.000000
+  reward_model_loss: 0.854377
+  continue_model_loss: 0.420860
+  policy_loss: -0.162417
+  value_loss: 1.571626
+  entropy: 1.941862
+  return_scale: 1.000000
+  mean_imagined_return: 0.005311
+  buffer_size: 1000.000000
+
